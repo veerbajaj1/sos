@@ -1,9 +1,16 @@
 body {
   background: #e2e1e0;
   text-align: center;
-  border-left-width: 0px;
-  padding-left: 0px;
+}
+body::-webkit-scrollbar {
+  display: none;
+}
 
+/* Hide scrollbar for IE, Edge and Firefox */
+body {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+  overflow-x: hidden;
 }
 
 .banner-card {
