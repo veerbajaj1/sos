@@ -1,0 +1,241 @@
+body {
+  background: #e2e1e0;
+  text-align: center;
+  border-left-width: 0px;
+  padding-left: 0px;
+
+}
+
+.banner-card {
+  background: #fff;
+  border-radius: 2px;
+  display: inline-block;
+  height: 200px;
+  margin: 1rem;
+  position: relative;
+  width: 98%;
+  border-radius: 6px;
+  margin-bottom: 0.7rem;
+  margin-top:0;
+
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.small-card {
+  background: #fff;
+  border-radius: 2px;
+  display: inline-block;
+  height: 40px;
+  margin: 1rem;
+  position: relative;
+  width: 98%;
+  border-radius: 6px;
+  margin-top: 0;
+  margin-bottom: 0.7rem;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.btn-container-card {
+  background: #f2f8ff;
+  border-radius: 2px;
+  display: inline-block;
+  height: auto;
+  margin: 1rem;
+  position: relative;
+  width: 98%;
+  border-radius: 6px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  margin-top: 0;
+  margin-bottom: 0.7rem;
+
+}
+
+.contact-card {
+  background: #fff;
+  display: inline-block;
+  height: 70px;
+  margin-top: 0.2rem;
+  margin-bottom:0.2rem;
+  padding:0.3rem;
+  position: relative;
+  width: 90%;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+  overflow: hidden;
+}
+
+.light-text {
+  font-size:13px;
+  color: #949494;
+  text-align: left;
+  margin-left:1rem;
+  font-family: 'Roboto', sans-serif;
+}
+
+.tag {
+  background-color: #ffffff;
+  border: 0.2px;
+  color: #585858;
+  padding: 5px;
+  padding-left: 7px;
+  padding-right: 7px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 11px;
+  text-align: left;
+  font-family: 'Roboto', sans-serif;
+  border-radius: 30px;
+  letter-spacing: 0.5px;
+  margin-bottom: 0.4rem;
+
+}
+
+.contact-card-heaading {
+  background: #fff;
+  display: inline-block;
+  height: 35px;
+  margin-top: 0.2rem;
+  margin-bottom:0.2rem;
+  padding:0.3rem;
+  position: absolute;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+  overflow: hidden;
+
+}
+
+.heading-head {
+  font-size:19px;
+  color: black;
+  text-align: left;
+  font-family: 'Roboto', sans-serif;
+  position: absolute;
+  margin: 0.2rem;
+  left:0.7rem;
+  letter-spacing: 0.5px;
+}
+
+.heading-price {
+  font-size:12px;
+  color: #24a045;
+  text-align: left;
+  font-family: 'Roboto', sans-serif;
+  position: absolute;
+  margin: 0.2rem;
+  right:0.8rem;
+  letter-spacing: 1px;
+}
+
+.heading-time {
+  font-size:12px;
+  color: #5475a7;
+  text-align: left;
+  font-family: 'Roboto', sans-serif;
+  position: absolute;
+  margin: 0.2rem;
+  margin-top:0.7rem;
+  left:0.7rem;
+  letter-spacing: 1px;
+}
+
+.heading-call {
+  font-size:15px;
+  color: black;
+  text-align: left;
+  font-family: 'Roboto', sans-serif;
+  position: absolute;
+  margin: 0.2rem;
+  right:0.5rem;
+  letter-spacing: 1px;
+  margin-top:0.3rem;
+}
+
+.heading-location {
+  font-size:10px;
+  color: #808080;
+  text-align: left;
+  font-family: 'Roboto', sans-serif, sans-serif;
+  position: absolute;
+  margin: 0.2rem;
+  margin-top: 0.6rem;
+  left:0.7rem;
+  letter-spacing: 0.7px;
+}
+
+.call-button {
+  background-color: #00ade1;
+  border: none;
+  color: white;
+  padding:5px;
+  padding-left: 7px;
+  padding-right: 7px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  cursor: pointer;
+
+}
+
+.banner-mohali-pkl {
+  font-size:18px;
+  color: #103488;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  display: inline-block;
+  margin-top: 0.5rem;
+  margin-left: auto;
+  letter-spacing: 0.8px;
+}
+
+.material-icons {
+  vertical-align:bottom;
+  color: #103488;
+}
+
+.btn-container-card-private {
+  background: #def1eb;
+  border-radius: 2px;
+  display: inline-block;
+  height: auto;
+  margin: 1rem;
+  position: relative;
+  width: 98%;
+  border-radius: 6px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  margin-top: 0;
+  margin-bottom: 0.7rem;
+
+}
+
+.btn-container-card-ngo {
+  background: #d9dffb;
+  border-radius: 2px;
+  display: inline-block;
+  height: auto;
+  margin: 1rem;
+  position: relative;
+  width: 98%;
+  border-radius: 6px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  margin-top: 0;
+  margin-bottom: 0.7rem;
+
+}
+
+a {
+  text-decoration: none;
+}
+
+.banner-mohali-pkl a:link{
+  color: #103488;
+}
+
+.material-icons a:link{
+  color: #103488;
+}
