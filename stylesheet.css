@@ -14,9 +14,7 @@ body {
 }
 
 .banner-card {
-  background: #fff;
-  border-radius: 2px;
-  display: inline-block;
+background-color: #ffffff;
   height: 200px;
   margin: 1rem;
   position: relative;
@@ -24,12 +22,17 @@ body {
   border-radius: 6px;
   margin-bottom: 0.7rem;
   margin-top:0;
-
   box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+.banner-card-graphic {
+background: url('/Users/karan/Documents/SOS_Animals_Html/images/banner_300.png') no-repeat;
+  height: 100%;
+  width: auto;
+  background-size:cover;
 }
 
 .small-card {
-  background: #fff;
+  background: #103488;
   border-radius: 2px;
   display: inline-block;
   height: 40px;
@@ -82,9 +85,9 @@ body {
 }
 
 .tag {
-  background-color: #ffffff;
+  background-color: #435171;
   border: 0.2px;
-  color: #585858;
+  color: #ffffff;
   padding: 5px;
   padding-left: 7px;
   padding-right: 7px;
@@ -240,9 +243,9 @@ a {
 }
 
 .banner-mohali-pkl a:link{
-  color: #103488;
+  color: #ffffff;
 }
 
 .material-icons a:link{
-  color: #103488;
+  color: #ffffff;
 }
