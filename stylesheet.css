@@ -250,3 +250,71 @@ a {
 .material-icons a:link{
   color: #ffffff;
 }
+
+.feed-container-card {
+  background: #ffffff;
+  border-radius: 0px;
+  max-height: 7rem;
+  margin: 1rem;
+  position: relative;
+  width: 100%;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  margin-top: 0;
+  margin-bottom: 0.7rem;
+  overflow-x: scroll!important;
+  overflow-y: hidden;
+
+}
+
+.feed-card {
+  background: #f2f8ff;
+  display: inline-block;
+  height: 6rem;
+  margin-top: 0.2rem;
+  margin-bottom:0.2rem;
+  padding:0.3rem;
+  position: relative;
+  width: 5rem;
+  overflow-x: scroll!important;
+  border-radius: 0.75rem;
+  margin-left: 1rem;
+}
+
+.btn-container-card-outstation {
+  background: #fbdddd;
+  border-radius: 2px;
+  display: inline-block;
+  height: auto;
+  margin: 1rem;
+  position: relative;
+  width: 98%;
+  border-radius: 6px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  margin-top: 0;
+  margin-bottom: 0.7rem;
+
+}
+
+.banner-card-graphic-panchkula {
+background: url('images/banner-panchkula.png') no-repeat;
+  height: 100%;
+  width: auto;
+  background-size:cover;
+}
+
+.banner-card-graphic-zirakpur {
+background: url('images/banner-zirakpur.png') no-repeat;
+  height: 100%;
+  width:  auto;
+  background-size:cover;
+}
+
+.banner-card-graphic-mohali {
+background: url('images/banner-mohali.png') no-repeat;
+  height: 100%;
+  width: auto;
+  background-size:cover;
+}
