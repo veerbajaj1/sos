@@ -299,14 +299,14 @@ a {
 }
 
 .banner-card-graphic-panchkula {
-background: url('/images/banner-panchkula.png') no-repeat;
+background: url('images/banner-panchkula.png') no-repeat;
   height: 100%;
   width: auto;
   background-size:cover;
 }
 
 .banner-card-graphic-zirakpur {
-background: url('/images/banner-zirakpur.png') no-repeat;
+background: url('images/banner-zirakpur.png') no-repeat;
   height: 100%;
   width:  auto;
   background-size:cover;
