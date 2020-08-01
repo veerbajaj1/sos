@@ -1,8 +1,10 @@
 body {
   background: #e2e1e0;
   text-align: center;
-  argin-left: 0px;
+  margin:auto;
+  max-width:470px;
 }
+
 body::-webkit-scrollbar {
   display: none;
 }
