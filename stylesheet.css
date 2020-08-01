@@ -24,6 +24,7 @@ background-color: #ffffff;
   margin-bottom: 0.7rem;
   margin-top:0;
   box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  margin-left:0.5rem;
 }
 .banner-card-graphic {
 background: url('banner_300.png') no-repeat;
