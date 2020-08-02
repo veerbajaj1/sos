@@ -106,6 +106,24 @@ background: url('banner_300.png') no-repeat;
 
 }
 
+.tag-emergency {
+  background-color: #ffffff;
+  border: 0.2px;
+  color: #000000;
+  padding: 5px;
+  padding-left: 7px;
+  padding-right: 7px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 11px;
+  text-align: left;
+  font-family: 'Roboto', sans-serif;
+  border-radius: 30px;
+  letter-spacing: 0.5px;
+  margin-bottom: 0.4rem;
+
+}
+
 .contact-card-heaading {
   background: #fff;
   display: inline-block;
@@ -286,6 +304,23 @@ a {
 
 .btn-container-card-outstation {
   background: #fbdddd;
+  border-radius: 2px;
+  display: inline-block;
+  height: auto;
+  margin: 1rem;
+  position: relative;
+  width: 98%;
+  border-radius: 6px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  margin-top: 0;
+  margin-bottom: 0.7rem;
+
+}
+
+.btn-container-card-emergency {
+  background: #ff0000;
   border-radius: 2px;
   display: inline-block;
   height: auto;
