@@ -493,3 +493,91 @@ right:0px!important;
 }
 
 
+
+.card-top-container-2 {
+  background: #ffffff;
+  min-height:auto;
+  position: relative;
+  max-width: 470px;
+  
+}
+
+
+p {
+  font-family: 'Roboto', sans-serif;
+  color: #000;
+}
+.circle-5 {
+  width: max(10vw);
+  max-width:44px;
+  height: max(10vw);
+  max-height:44px;
+  background-color:#fefefe;
+  background: url("https://img.favpng.com/9/13/17/wellington-free-ambulance-emergency-scalable-vector-graphics-icon-png-favpng-D7FeFUAwcKGcL3xGjVjRAyTVm.jpg");
+background-size:cover;
+right:0px!important;  
+}
+
+.circle-6 {
+  width: max(10vw);
+  max-width:44px;
+  height: max(10vw);
+  max-height:44px;
+  background-color:#fefefe;
+  background: url("https://img.favpng.com/9/13/17/wellington-free-ambulance-emergency-scalable-vector-graphics-icon-png-favpng-D7FeFUAwcKGcL3xGjVjRAyTVm.jpg");
+background-size:cover;
+right:0px!important;  
+}
+
+
+
+.card-1 {
+  display: inline-block;
+  margin: 0.5rem;
+  padding: 1px 10px 4px 4px;
+  border-radius: 2px;
+  background-color: #ffe8f4;
+}
+.card-1 div {
+  display: inline-block;
+    vertical-align: middle;
+  margin-top: 0.375rem;
+}
+.zdepth2 {
+  z-index: 10;
+  border-radius:0.5rem;
+  width:200px;
+    display: inline-block;
+  text-align:left;
+
+}
+
+.head-2 {
+  font-weight: 500;
+  font-size: 12px;
+  color:#b0055e;
+  line-height: 4px;
+  opacity: 0.87;
+  text-align:right!important;
+}
+
+
+.card-row-3 {
+  display:inline-block;
+  padding-top:1rem;
+}
+
+
+@media screen and (max-width: 470px) {
+  .zdepth2 {
+      width:max(36vw);
+
+  }
+  
+  .head-2 {
+  font-size: 2vw!important;
+  }
+  
+  }
+
+
