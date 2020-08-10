@@ -570,14 +570,12 @@ right:0px!important;
 
 @media screen and (max-width: 470px) {
   .zdepth2 {
-      width:max(36vw);
+      width:max(41vw);
 
   }
   
   .head-2 {
-  font-size: 2vw!important;
+  font-size: 2.85vw!important;
   }
   
   }
-
-
