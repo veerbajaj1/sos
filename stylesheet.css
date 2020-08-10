@@ -382,7 +382,7 @@ p {
   height: max(10vw);
   max-height:44px;
   background-color:#fefefe;
-  background: url("images/ambulance.png");
+  background: url("images/doctors.png");
 background-size:cover;
 right:0px!important;  
 }
