@@ -48,6 +48,18 @@ background: url('banner_300.png') no-repeat;
   box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 }
 
+.rescue-header-card {
+  background: #ffef61;
+    display: inline-block;
+    height: 70px;
+    position: relative;
+    width: 98%;
+    border-radius: 45px 45px 0px 0px;
+    margin-top: 0.5rem;
+    margin-bottom: 0.7rem;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
 .btn-container-card {
   background: #f2f8ff;
   border-radius: 2px;
@@ -249,6 +261,17 @@ a {
   margin-top: 0.5rem;
   margin-left: auto;
   letter-spacing: 0.8px;
+}
+
+.rescue-header-card-title {
+  font-size:22px;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  display: inline-block;
+  margin-top: 1.5rem;
+  margin-left: auto;
+  letter-spacing: 0.8px;
+  color: #565656;
 }
 
 .material-icons {
