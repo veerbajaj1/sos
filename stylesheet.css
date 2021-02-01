@@ -117,6 +117,27 @@ background: url('banner_300.png') no-repeat;
 
 }
 
+.tag-location {
+  background-color: #E0F2F180;
+  border: 0.2px;
+  color: #ffffff;
+  padding: 5px;
+  padding-left: 7px;
+  padding-right: 7px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 11px;
+  text-align: left;
+  font-family: 'Roboto', sans-serif;
+  border-radius: 30px;
+  letter-spacing: 0.5px;
+  margin-bottom: 0.4rem;
+  border:#62bf9c 0.3px dotted;
+
+}
+
+
+
 .tag-emergency {
   background-color: #ffffff;
   border: 0.2px;
@@ -180,7 +201,7 @@ background: url('banner_300.png') no-repeat;
   margin: 0.2rem;
   right:0.8rem;
   letter-spacing: 1px;
-  font-weight: 500;
+  margin-top:0.5rem;
 }
 
 a {
@@ -226,17 +247,7 @@ a {
   margin-top:0.3rem;
 }
 
-.heading-location {
-  font-size:10px;
-  color: #808080;
-  text-align: left;
-  font-family: 'Roboto', sans-serif, sans-serif;
-  position: absolute;
-  margin: 0.2rem;
-  margin-top: 0.6rem;
-  left:0.7rem;
-  letter-spacing: 0.7px;
-}
+
 
 .call-button {
   background-color: #00ade1;
@@ -781,4 +792,9 @@ right:0px!important;
   color: white;
   display: none;
   height: 100%;
+}
+
+.no-decoration {
+  text-decoration: none!important;
+  color:#1b7e35;
 }
