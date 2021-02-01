@@ -734,6 +734,19 @@ right:0px!important;
     font-weight:500;
 }
 
+.rescue-heading-location {
+  font-size: 12px;
+    color:#888888;
+    text-align: left;
+    font-family: 'Roboto', sans-serif, sans-serif;
+    position: absolute;
+    margin: 0.2rem;
+    margin-top: 0.6rem;
+    left: 0.7rem;
+    letter-spacing: 0.7px;
+    font-weight:500;
+}
+
 .doctor-heading-clinic {
   font-size: 14px;
     color: #6e6e6e;
