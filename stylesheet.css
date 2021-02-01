@@ -53,10 +53,10 @@ background: url('banner_300.png') no-repeat;
     display: inline-block;
     height: 70px;
     position: relative;
-    width: 98%;
+    width: 100%;
     border-radius: 45px 45px 0px 0px;
     margin-top: 0.5rem;
-    margin-bottom: 0.7rem;
+    margin-bottom: 0.07rem;
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
 }
 
@@ -245,6 +245,19 @@ a {
   right:0.5rem;
   letter-spacing: 1px;
   margin-top:0.3rem;
+}
+
+.rescue-heading-call {
+  font-size:15px;
+  color: black;
+  text-align: left;
+  font-family: 'Roboto', sans-serif;
+  position: absolute;
+  margin: 0.2rem;
+  right:0.5rem;
+  letter-spacing: 1px;
+  margin-top:0.3rem;
+  bottom:0;
 }
 
 
@@ -744,7 +757,6 @@ right:0px!important;
     margin-top: 0.6rem;
     left: 0.7rem;
     letter-spacing: 0.7px;
-    font-weight:500;
 }
 
 .doctor-heading-clinic {
